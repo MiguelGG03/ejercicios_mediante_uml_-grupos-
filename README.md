@@ -8,3 +8,5 @@ Autores:
 [Carlos](https://github.com/carlospuigserver)
 
 [Nacho](https://github.com/Nachopedrero)
+
+[Gonzalo](https://github.com/GonzaloGmv)
