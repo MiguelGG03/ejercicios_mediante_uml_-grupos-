@@ -16,11 +16,11 @@ Hemos tenido que guardar los UML como png, porque de otra forma, no se veían co
 ### Ejercicio 3: Herencias
 
 	
-1. Planeta/Saturno: Sí sería adecuado utilizar herencias
+1. Planeta/Saturno: Si sería adecuado utilizar herencias
 
 2. Lista/Directorio telefónico: No sería adecuado utilizar herencias
 
-3. Animal de compañía/Perro: Sí sería adecuado utilizar herencias
+3. Animal de compañía/Perro: Si sería adecuado utilizar herencias
 
 4. Dos ruedas/Bicicleta: No sería adecuado utilizar herencias
 
