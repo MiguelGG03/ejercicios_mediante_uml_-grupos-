@@ -35,3 +35,9 @@ El UML para este ejercicio es el siguiente:
 
 ![ejercicio 4](https://user-images.githubusercontent.com/91721237/158649831-ec7065f4-eb81-44dc-8c1f-bdc804ba8e95.png)
 
+### Ejercicio 5.
+
+El UML para este ejercicio es el siguiente:
+
+![ejercicio5](https://user-images.githubusercontent.com/91721552/158679393-1c7e25f2-10e4-48ac-ad23-4a0ea654f6bd.png)
+
