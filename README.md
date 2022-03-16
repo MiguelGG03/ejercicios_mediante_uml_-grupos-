@@ -11,6 +11,8 @@ Autores:
 
 [Gonzalo](https://github.com/GonzaloGmv)
 
+[José Zazo](https://github.com/jzazooro)
+
 Hemos tenido que guardar los UML como png, porque de otra forma, no se veían correctamente
 
 
