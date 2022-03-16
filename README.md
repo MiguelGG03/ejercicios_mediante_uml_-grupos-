@@ -15,6 +15,12 @@ Autores:
 
 Hemos tenido que guardar los UML como png, porque de otra forma, no se veían correctamente
 
+### Ejercicio 1. Clase simple
+
+El UML correspondiente a este ejercicio es el siguiente:
+
+![ejercicio 1]()
+
 ### Ejercicio 2.
 
 1. Aeropuerto / Avión : si el aeropuerto no está abandonado es forzoso que tenga aviones
