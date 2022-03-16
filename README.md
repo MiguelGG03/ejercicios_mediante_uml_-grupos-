@@ -29,7 +29,7 @@ Hemos tenido que guardar los UML como png, porque de otra forma, no se veían co
 
 El UML para los casos en los que se puede utilizar herencias es el suguiente:
 
-
+![ejercicio2](https://user-images.githubusercontent.com/91721552/158684405-6c87d0f2-794e-4e3a-99dc-d6e2013df42e.png)
 
 ### Ejercicio 3. Herencias
 	
