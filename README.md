@@ -19,7 +19,7 @@ Hemos tenido que guardar los UML como png, porque de otra forma, no se veían co
 
 El UML correspondiente a este ejercicio es el siguiente:
 
-![ejercicio 1]()
+![ejercicio 1](https://github.com/migueliiin/ejercicios_mediante_uml_-grupos-/blob/main/ejercicio1.png)
 
 ### Ejercicio 2.
 
