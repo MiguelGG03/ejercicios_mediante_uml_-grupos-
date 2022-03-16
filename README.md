@@ -65,3 +65,4 @@ El UML para este ejercicio es el siguiente:
 
 ### 6. Miembros.
 El UML es el siguiente :
+https://github.com/migueliiin/ejercicios_mediante_uml_-grupos-/blob/e0241a8ccc4d8e5b2c8401448a9ccf6e177abffa/953653e1-81a5-45cf-a854-5918a0eb4923.png
