@@ -13,8 +13,8 @@ Autores:
 
 Hemos tenido que guardar los UML como png, porque de otra forma, no se veían correctamente
 
-### Ejercicio 3: Herencias
 
+### Ejercicio 3. Herencias
 	
 1. Planeta/Saturno: Si sería adecuado utilizar herencias
 
@@ -27,4 +27,11 @@ Hemos tenido que guardar los UML como png, porque de otra forma, no se veían co
 El UML para los casos en los que se puede utilizar herencias es el suguiente:
 
 ![ejercicio 3 herencias](https://user-images.githubusercontent.com/91721237/158646892-eadf53ae-3e18-44a6-a823-bdadb2770d18.jpg)
+
+
+### Ejercicio 4. Localización de clases
+
+El UML para este ejercicio es el siguiente:
+
+![ejercicio 4](https://user-images.githubusercontent.com/91721237/158649831-ec7065f4-eb81-44dc-8c1f-bdc804ba8e95.png)
 
