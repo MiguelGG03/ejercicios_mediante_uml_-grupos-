@@ -61,8 +61,9 @@ El UML para este ejercicio es el siguiente:
 ### Ejercicio 5. Contenidos y continentesk
 
 El UML para este ejercicio es el siguiente:
-![ejercicio5](https://user-images.githubusercontent.com/91721552/158679393-1c7e25f2-10e4-48ac-ad23-4a0ea654f6bd.png)
+![ejercicio 5](https://user-images.githubusercontent.com/91721552/158679393-1c7e25f2-10e4-48ac-ad23-4a0ea654f6bd.png)
 
 ### 6. Miembros.
-El UML es el siguiente :
-(https://github.com/migueliiin/ejercicios_mediante_uml_-grupos-/blob/main/953653e1-81a5-45cf-a854-5918a0eb4923.png)
+
+El UML para este ejercicio es el siguiente :
+![Ejercicio 6](https://github.com/migueliiin/ejercicios_mediante_uml_-grupos-/blob/main/ejercicio1.png)
