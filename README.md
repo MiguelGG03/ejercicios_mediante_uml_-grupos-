@@ -15,6 +15,21 @@ Autores:
 
 Hemos tenido que guardar los UML como png, porque de otra forma, no se veían correctamente
 
+### Ejercicio 2.
+
+1. Aeropuerto / Avión : si el aeropuerto no está abandonado es forzoso que tenga aviones
+
+2. Continente / País : es por composición
+
+3. Molécula / Átomo :es por agregación, porque los gases nobles son átomos que no estan ligados a ninguna molécula
+
+4. Colmena / Abeja :es por composición, (en caso de que la colmen este activa) no hay colmenas sin abejas ni abejas sin colmena
+
+5. Muñeca rusa / Muñeca rusa :es por agregación, porque llegamos a un punto en el que la ultima muñeca rusa no tiene forzosamente otra dentro
+
+El UML para los casos en los que se puede utilizar herencias es el suguiente:
+
+
 
 ### Ejercicio 3. Herencias
 	
